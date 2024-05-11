@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">GlazeApp</string>
+    <string name="login_login">Login</string>
+    <string name="skip">Skip</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Loading">Loading...</string>
+    <string name="Update">Update</string>
+    <string name="Glaze">Glaze</string>
+    <string name="createacc">Create Account</string>
+    <string name="ContactUs1">ContactUs</string>
+
+    <string name="Register">Register</string>
+    <string name="Name">Name</string>
+    <string name="Age">Age</string>
+    <string name="Gender">Gender</string>
+    <string name="email">email</string>
+    <string name="contact">Contact Number</string>
+    <string name="Already">Already Have an account</string>
+
+    <string name="welcome">Welcome to Glaze</string>
+    <string name="skincare">Skin Care</string>
+    <string name="facemask">Face Mask</string>
+    <string name="article">Article</string>
+    <string name="tonernscrub">Toner and Scrub</string>
+    <string name="contactus">Contact us</string>
+
+    <string name="nomalskin">Normal Skin</string>
+    <string name="oilyskin">oily Skin</string>
+    <string name="darkskin">Dark Skin</string>
+    <string name="generaltips">General Tips</string>
+
+    <string name="intro">Intro</string>
+    <string name="sheetmarks">Sheet Mask</string>
+    <string name="creammarks">Cream Mask</string>
+
+    <string name="dryskin">Dry Skin</string>
+    <string name="oilyskin4">Oily SKin</string>
+    <string name="creammarks8">Normal Skin</string>
+    <string name="generaltip">general Tips</string>
+
+    <string name="contus">Contact US</string>
+    <string name="fb">Tashini S hansanee</string>
+    <string name="no">0776290691</string>
+
+    <string name="not">Notification</string>
+    <string name="empty">emppty</string>
+    <string name="saved">saved</string>
+    <string name="saveditem">Your saved Items</string>
+
+    <string name="myacc">My Account</string>
+
+
+</resources>
